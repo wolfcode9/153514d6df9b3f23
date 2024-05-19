@@ -1,0 +1,11 @@
+{
+  "urls": 
+  [
+    {"name":"WolfCode","url":"https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/main/f8294afa8bbe26c4/05dfffce156629c7"},
+	{"name":"WolfRelax","https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/main/f8294afa8bbe26c4/79035a45a2fe493b"},
+	{"name":"FongMi","url":"http://yingshi.fongmi.eu.org"},
+	{"name":"飯太硬","url":"http://饭太硬.top/tv"},  
+    {"name":"唐三","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0707.json"},
+    {"name":"流雲","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}
+  ]
+}
